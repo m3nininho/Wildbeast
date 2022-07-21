@@ -2,7 +2,7 @@
 
 O projeto foi desenvolvido com o material de apoio do curso Origamid, com a finalidade de treinar o uso do display grid.
 
-<img src="./img/Animação.gif" align="center" width="1000"/>
+<img src="./img/Animação.gif" align="center" width="800"/>
 
 ## O projeto também conta com a responsividade
 
